@@ -1,2 +1,7 @@
 # open-port
-Is the port open?
+~~~
+rustc openport.rs
+~~~
+~~~
+./openport [IP]:[PORT]
+~~~
